@@ -13,7 +13,7 @@ Features
  <li>Write memory</li>
  <li>Overwrite instructions with no-op</li>
  <li>Draw Text</li>
- <li> <li>Draw Rectangle</li>
+ <li>Draw Rectangle</li>
  <li>Draw Filled Rectangle</li>
  <li>Draw Line</li>
  <li>Hooking API</li></li>
