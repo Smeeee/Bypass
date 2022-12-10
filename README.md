@@ -19,4 +19,5 @@ Features
  <li>Hooking API</li></li>
  <li>Communicates VIA function hook</li>
 
-More information : [Zhexcheats](https://zhexcheats.com).
+
+## More information : [Zhexcheats](https://zhexcheats.com).
